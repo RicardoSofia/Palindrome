@@ -31,9 +31,4 @@ public class Palindrome {
         return palindromeList;
     }
 
-    public void getPalindromeList(){
-
-        palindromeFunction(10, 15);
-
-    }
 }
